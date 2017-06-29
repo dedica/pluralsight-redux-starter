@@ -82,3 +82,6 @@ This will run the automated build process, start up a webserver, and open the ap
 
 # Start your app
 npm start -s
+
+# Debugging errors (server needs to be stopped) 
+npm run lint
